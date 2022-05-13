@@ -2,7 +2,7 @@ import main
 import sympy
 
 #M должно быть не больше N
-m = '21412235'
+m = 'Привет'
 p = sympy.randprime(1,231521241243111)
 q = sympy.randprime(1,231512412423111)
 N = q*p
