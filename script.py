@@ -36,7 +36,8 @@ m1 = pow(c,d,N)
 print('m`=',m1)
 
 cr = ''
-for i in range(len(number)):
-    ind = main.abc[number[i]]
-    cr+=ind
-print(cr)
+
+#for i in range(len(number)):
+#    ind = main.abc[number[i]]
+#    cr+=ind
+#print(cr)
